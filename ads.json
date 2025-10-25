@@ -6,6 +6,6 @@
     "admobNativeAdId1": "ca-app-pub-3940256099942544/2247696110",
     "admobNativeAdId2": "ca-app-pub-3940256099942544/2247696110",
     "admobNativeAdId3": "ca-app-pub-3940256099942544/2247696110",
-    "interstitialFreq": 100
+    "interstitialFreq": 1
   }
 ]
